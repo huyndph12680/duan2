@@ -1,0 +1,43 @@
+{
+  "loaisp": [
+    {
+      "id": "1",
+      "tenloai": "Áo",
+      "chitietloai": [
+        {
+          "tenchitietloai": "Áo thun",
+          "url": "ao-thun"
+        },
+        {
+          "tenchitietloai": "Áo khoác",
+          "url": "ao-khoac"
+        },
+        {
+          "tenchitietloai": "Áo dài",
+          "url": "Ao-dai"
+        }
+      ]
+    }
+  ],
+  "product": [
+    {
+      "loaisp": "ao-khoac",
+      "name": "Nguyễn Danh Huy",
+      "price": "1000000",
+      "image1": "ac",
+      "image2": "ac",
+      "image3": "ac",
+      "soLuong": "1",
+      "id": "cGWWobw"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1",
+      "email": "ducthanh260801@gmail.com",
+      "vaitro": "1"
+    }
+  ]
+}
